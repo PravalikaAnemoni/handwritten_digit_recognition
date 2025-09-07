@@ -113,9 +113,8 @@ handwritten-digit-recognition/
 
 ## Screenshots
 
-![Confusion Matrix](resources/confusion_matrix.png)
-![Accuracy and Loss](resources/accu_and_loss.png)
-![Streamlit UI](resources/streamlit-screen.png)
+<img width="733" height="798" alt="image" src="https://github.com/user-attachments/assets/42db66b7-293a-481e-a04a-94c0fc71b7f1" />
+
 
 ---
 
@@ -126,5 +125,6 @@ handwritten-digit-recognition/
 - If you encounter TensorFlow DLL errors, verify your Python version and install the [Microsoft Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170).
 
 ---
+
 
 ## License
